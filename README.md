@@ -117,3 +117,19 @@ Here’s a summary of model performance:
 ```bash
 git clone https://github.com/your_username/Breast_Cancer_Classification_ML.git
 cd Breast_Cancer_Classification_ML
+
+# Create virtual environment
+python -m venv venv
+
+# Activate (Windows)
+venv\Scripts\activate
+
+# Activate (MacOS/Linux)
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+python main.py
+
+pytest
+
