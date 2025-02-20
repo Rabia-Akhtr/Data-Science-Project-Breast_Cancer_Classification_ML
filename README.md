@@ -127,9 +127,12 @@ venv\Scripts\activate
 # Activate (MacOS/Linux)
 source venv/bin/activate
 
+# Install Required Packages
 pip install -r requirements.txt
 
+# Run the Project
 python main.py
 
+# Run Tests
 pytest
 
