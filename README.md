@@ -98,17 +98,7 @@ Each model was evaluated based on the following **metrics**:
 ## 📊 Results and Performance Comparison
 Here’s a summary of model performance:
 
-| **Model**                    | **Accuracy (%)** | **Precision (%)** | **Recall (%)** | **F1-Score (%)** |
-|------------------------------|-----------------|-----------------|--------------|----------------|
-| **Logistic Regression**       | 89.2%  | 87%  | 90%  | 88.5% |
-| **Decision Tree**             | 92.1%  | 91%  | 93%  | 92% |
-| **Random Forest**             | 95.7%  | 96%  | 94%  | 95% |
-| **Support Vector Machine**    | 94.3%  | 95%  | 92%  | 93.5% |
-| **Artificial Neural Network** | 96.3%  | 97%  | 96%  | 96.5% |
-| **XGBoost**                   | 97.1%  | 98%  | 97%  | 97.5% |
 
-📊 **Visualization: Model Performance Comparison**  
-*(Insert performance comparison bar chart here.)*
 
 ---
 
