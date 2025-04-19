@@ -58,12 +58,9 @@ This project evaluates the **classification performance of six models**:
 
 | **Algorithm**               | **Type** | **Key Strengths** |
 |-----------------------------|----------|------------------|
-| **Logistic Regression**     | Linear Model  | Simple & interpretable |
 | **Decision Tree**           | Tree-Based | High interpretability |
-| **Random Forest**           | Ensemble | Reduces overfitting |
 | **Support Vector Machine**  | Kernel-Based | Effective for high-dimensional data |
 | **Artificial Neural Network** | Deep Learning | Captures complex patterns |
-| **XGBoost**                 | Boosting | Highly optimized, scalable |
 
 ---
 
